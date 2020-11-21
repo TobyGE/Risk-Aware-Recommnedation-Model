@@ -1,5 +1,5 @@
 # Risk-aware Recommendation
-code for "Learning Personalized Risk Preferences for Recommendation"
+code for [Learning Personalized Risk Preferences for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401056?casa_token=Q_d0iLBBqsEAAAAA:yz8lB3n-YBUHO9thM_Cnj9UIB-s_9B2kdGLCoYE4IKxhdPxtgPWnFekk8EQM5fGHrnomMDUYhr34)
 
 Bibtex
 
